@@ -1,0 +1,10 @@
+﻿# Java
+*.class
+bin/
+
+# IDE
+.metadata/
+.idea/
+
+# Logs
+*.log
