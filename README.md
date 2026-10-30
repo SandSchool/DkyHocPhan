@@ -10,11 +10,11 @@
 
 ## Thành viên
 
-1. Thành viên 1:
-2. Thành viên 2:
-3. Thành viên 3:
-4. Thành viên 4:
-5. Thành viên 5:
+1. Thành viên 1:Trần Cát Trường
+2. Thành viên 2:Nguyễn Tiến Phong
+3. Thành viên 3:Võ Anh Quốc
+4. Thành viên 4:Nguyễn Hoàng Nam
+5. Thành viên 5:Nguyễn Trung Hiếu
 
 ## Cấu trúc project
 
